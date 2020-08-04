@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hugdog-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hugdog-app/static/js/main.aca2c1ed.chunk.js",
+    "main.js.map": "/hugdog-app/static/js/main.aca2c1ed.chunk.js.map",
+    "runtime-main.js": "/hugdog-app/static/js/runtime-main.9b69a4f1.js",
+    "runtime-main.js.map": "/hugdog-app/static/js/runtime-main.9b69a4f1.js.map",
+    "static/js/2.474eeb67.chunk.js": "/hugdog-app/static/js/2.474eeb67.chunk.js",
+    "static/js/2.474eeb67.chunk.js.map": "/hugdog-app/static/js/2.474eeb67.chunk.js.map",
+    "index.html": "/hugdog-app/index.html",
+    "precache-manifest.8264e07b217ac65f7fcda84c7f1622e4.js": "/hugdog-app/precache-manifest.8264e07b217ac65f7fcda84c7f1622e4.js",
+    "service-worker.js": "/hugdog-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hugdog-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.474eeb67.chunk.js.LICENSE.txt": "/hugdog-app/static/js/2.474eeb67.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hugdog-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b69a4f1.js",
+    "static/js/2.474eeb67.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.aca2c1ed.chunk.js"
+  ]
+}
